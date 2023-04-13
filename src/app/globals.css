@@ -1,0 +1,12 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+@layer base {
+  *,
+  *::after,
+  *::before {
+    padding: 0;
+    margin: 0;
+  }
+}
