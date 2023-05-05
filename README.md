@@ -2,6 +2,7 @@
 
 An app for tracking dreams and sleep schedule.
 
+## Technologies
 - Deployment: [Vercel](https://vercel.com)
 - Analytics: [Vercel Analytics](https://vercel.com/analytics)
 - Framework: [Next.js](https://nextjs.org/)
@@ -10,7 +11,7 @@ An app for tracking dreams and sleep schedule.
 - ORM: [Prisma](https://prisma.io)
 - Styling: [Tailwind CSS](https://tailwindcss.com)
 
-# __Planned Features__
+# Planned Features
 - [ ] Analyze dreams with AI
 - [ ] Share dreams with community
 - [ ] Comment/Like Dreams
