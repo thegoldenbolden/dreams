@@ -11,7 +11,7 @@ An app for tracking dreams and sleep schedule.
 - ORM: [Prisma](https://prisma.io)
 - Styling: [Tailwind CSS](https://tailwindcss.com)
 
-# Planned Features
+## Planned Features
 - [ ] Analyze dreams with AI
 - [ ] Share dreams with community
 - [ ] Comment/Like Dreams
